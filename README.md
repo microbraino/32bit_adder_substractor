@@ -7,4 +7,4 @@ The program demonstrates a kind of presynthesized module.
 
 Here is referenced 4 bit adder/substractor circuit diagram:
 ![GitHub Logo](1d58d492e7720ea60f87331d3b518f61.jpeg)
-Format: ![4 bit adder/substractor circuit diagram](https://hi-static.z-dn.net/files/d8e/1d58d492e7720ea60f87331d3b518f61.png)
+Format: ![4 bit adder/substractor circuit diagram]()
